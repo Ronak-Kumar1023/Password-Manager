@@ -19,19 +19,19 @@ A simple password manager built with Python and Tkinter that allows you to secur
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 ```bash
 git clone https://github.com/Ronak-Kumar1023/Password-Manager.git
 ```
-2. Install the required Python libraries:
+2. **Install the required Python libraries:**
 ```bash
 pip install python-dotenv cryptography
 ```
-3. Create a `.env` file in the root directory with the following content:
+3. **Create a `.env` file in the root directory with the following content:**
 ```plaintext
 DIRECTORY_PATH=./your_directory_path_here
 ```
-Replace `your_directory_path_here` with the path where you want to store your encryption key, password file, and master password hash.
+4. **Replace `your_directory_path_here` with the path where you want to store your encryption key, password file, and master password hash.**
 
 ## Usage
 
